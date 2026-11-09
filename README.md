@@ -40,6 +40,6 @@ My journey started with computer-vision research in 2017. Today, I work across *
 
 If you're building an **AI agent, a RAG assistant, a workflow automation, or an AI-enabled SaaS application**, I enjoy discussing architecture, practical implementation, and how to ship a system you can actually maintain.
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/farwa-jafar-all/)**
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/farwa-jafar-allin/)**
 
 *Focused on clear architecture, responsible AI integration, useful products, and measurable business outcomes.*
