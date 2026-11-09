@@ -36,6 +36,24 @@ My journey started with computer-vision research in 2017. Today, I work across *
 | --- | --- | --- |
 | LLM APIs, RAG, DSPy, embeddings, prompt evaluation, OpenRouter, TypingMind | Python, FastAPI, PostgreSQL, pgvector, Supabase, REST APIs | React, TypeScript, Docker, Git/GitHub, testing, workflow automation |
 
+## Certifications & ongoing learning
+
+**Credential listed in my CV**
+- **CS50: Introduction to Computer Science** — Harvard / edX. *Certificate verification link not yet added.*
+
+**Certification roadmap — not yet earned**
+
+These are credentials I am considering to independently validate the engineering skills demonstrated in my projects; **they are not certifications I currently claim to hold**.
+
+| Certification to pursue | Relevant focus |
+| --- | --- |
+| [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) | Applied AI, generative AI, responsible AI |
+| [AWS Certified Machine Learning Engineer – Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/) | Production ML engineering and deployment |
+| [Databricks Certified Generative AI Engineer Associate](https://www.databricks.com/learn/training/certification) | RAG applications, AI solution engineering |
+| [Databricks Certified Context Engineering Associate](https://www.databricks.com/learn/training/certification) | Context engineering and agent systems |
+| [NVIDIA-Certified Associate: Generative AI LLMs](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/) | LLM integrations and development fundamentals |
+| [Google Cloud Professional Machine Learning Engineer](https://cloud.google.com/learn/certification/machine-learning-engineer) | ML architecture, MLOps, model serving |
+
 ## Let's connect
 
 If you're building an **AI agent, a RAG assistant, a workflow automation, or an AI-enabled SaaS application**, I enjoy discussing architecture, practical implementation, and how to ship a system you can actually maintain.
